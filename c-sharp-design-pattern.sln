@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template\Template.csproj", "{E65C31F9-9A63-4602-B5B9-F37E0BB5416D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{2A6BD1C6-EFD9-4BC4-B230-924DB0D6C447}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{E65C31F9-9A63-4602-B5B9-F37E0BB5416D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E65C31F9-9A63-4602-B5B9-F37E0BB5416D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E65C31F9-9A63-4602-B5B9-F37E0BB5416D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6BD1C6-EFD9-4BC4-B230-924DB0D6C447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6BD1C6-EFD9-4BC4-B230-924DB0D6C447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6BD1C6-EFD9-4BC4-B230-924DB0D6C447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6BD1C6-EFD9-4BC4-B230-924DB0D6C447}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
